@@ -2,5 +2,6 @@
 <description>Sample model</description>
 <node1>Report 1</node1>
 <node2>Report 2</node2>
-<node3>Report 23/node3>
+<node3>Report 23</node3>
+<node4>Report Change 4</node4>
 </model>
